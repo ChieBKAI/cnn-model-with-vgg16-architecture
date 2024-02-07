@@ -19,6 +19,7 @@ cd cnn-vgg16-cifar10
 
 ### VGG16 Architecture Overview
 VGG16 is a deep convolutional neural network architecture that gained popularity for its simplicity and strong performance. It consists of 13 convolutional layers, followed by three fully connected layers. The architecture is known for using small 3x3 convolutional filters with a stride of 1 for feature extraction.
+
 ![VGG16 Architecture](https://datagen.tech/wp-content/uploads/2022/11/image2-1.png)
 
 ### Usage
