@@ -28,5 +28,5 @@ To predict image, save your image in the same folder as the name ***"test_img.pn
 ![](https://i.imgur.com/oZ54hQg.png)
 
 ### References
-[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
-[Basic Deep Learning - Chapter 7](https://nttuan8.com/bai-7-gioi-thieu-keras-va-bai-toan-phan-loai-anh/)
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+- [Basic Deep Learning - Chapter 7](https://nttuan8.com/bai-7-gioi-thieu-keras-va-bai-toan-phan-loai-anh/)
