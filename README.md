@@ -22,7 +22,9 @@ VGG16 is a deep convolutional neural network architecture that gained popularity
 ![VGG16 Architecture](https://datagen.tech/wp-content/uploads/2022/11/image2-1.png)
 
 ### Usage
-To predict image, save your image in the same folder as the name ***"test_img.png"***. Then use *CIFAR10_CNN_VGG16_pretrain* to predict
+To predict image, save your image in the same folder as the name ***"test_img.png"***. Then use *CIFAR10_CNN_VGG16_pretrain* to predict:
+
+![](https://i.imgur.com/oZ54hQg.png)
 
 ### References
 [Basic Deep Learning - Chapter 7](https://nttuan8.com/bai-7-gioi-thieu-keras-va-bai-toan-phan-loai-anh/)
